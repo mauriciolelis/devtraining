@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="133113af1b7b559036431f82b24bcb86" extends="task" label="Ordem de Serviço" max_length="40" name="x_ctdi2_ordem_de_0_ordem_de_servico" text_index="true" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="2" label="CNPJ_CPF" max_length="40" name="cnpj_cpf" reference="x_ctdi2_ordem_de_0_dados_contrato" type="reference">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Consultor Técnico" max_length="40" name="consultor_tecnico" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Dias Úteis" max_length="40" name="dias_uteis" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Especificação" max_length="300" name="especificacao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Fator Tipo Regime" max_length="40" name="fator_tipo_regime" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Lote" max_length="40" name="lote" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome da Contratada" max_length="40" name="nome_da_contratada" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Numero do Contrato" max_length="40" name="numero_do_contrato" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Tipo de Equipe" max_length="40" name="tipo_de_equipe" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Titulo" max_length="40" name="titulo" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="Em composição" label="Estado da OS" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Em composição" sequence="0" value="Em composição"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Em Análise" sequence="1" value="Em Análise"/>
+                <element inactive_on_update="false" label="Aprovadao" sequence="2" value="Aprovadao"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+            </choice>
+        </element>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="tete calcula" max_length="1024" name="u_glide_list_2" reference="x_ctdi2_ordem_de_0_calcula_perfis" type="glide_list"/>
+        <element attributes="encode_utf8=false" label="New Reference-" max_length="32" name="u_reference_5" reference="x_ctdi2_ordem_de_0_calcula_perfis" type="reference"/>
+        <element label="New Name-Value Pairs---" max_length="4000" name="u_simple_name_values_4" type="simple_name_values"/>
+        <element attributes="edge_encryption_enabled=true" label="Observações para a OS" max_length="300" name="u_string_1" type="string"/>
+        <element attributes="base_start=true" default="x_ctdi2_ordem_de_0_calcula_perfis" label="Calcula Perfis" max_length="80" name="u_table_name_3" type="table_name"/>
+        <element label="Valor UST" max_length="40" name="valor_ust" type="currency"/>
+    </element>
+</database>

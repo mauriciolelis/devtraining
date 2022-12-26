@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 08:36:36</sys_created_on>
+        <sys_id>13fca2b01b04a1d036431f82b24bcb7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ctdi2_ordem_de_0_quantidade_por_perfil.x_ctdi2_ordem_de_0.admin</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_security_acl display_value="x_ctdi2_ordem_de_0_quantidade_por_perfil">dbfca2b01b04a1d036431f82b24bcb76</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_13fca2b01b04a1d036431f82b24bcb7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-26 08:36:36</sys_updated_on>
+        <sys_user_role display_value="x_ctdi2_ordem_de_0.admin" name="x_ctdi2_ordem_de_0.admin">7444b2671bff159036431f82b24bcb71</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</application>
+        <file_path/>
+        <instance_id>7ed1d16ddb79e0949df22f17d4961916</instance_id>
+        <instance_name>ciberiantecnologiadainformacaoltdademo4</instance_name>
+        <name>sys_security_acl_role_13fca2b01b04a1d036431f82b24bcb7a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-26 08:36:36</sys_created_on><sys_id>13fca2b01b04a1d036431f82b24bcb7a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_ctdi2_ordem_de_0_quantidade_por_perfil.x_ctdi2_ordem_de_0.admin</sys_name><sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package><sys_policy/><sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope><sys_security_acl display_value="x_ctdi2_ordem_de_0_quantidade_por_perfil">dbfca2b01b04a1d036431f82b24bcb76</sys_security_acl><sys_update_name>sys_security_acl_role_13fca2b01b04a1d036431f82b24bcb7a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-26 08:36:36</sys_updated_on><sys_user_role display_value="x_ctdi2_ordem_de_0.admin" name="x_ctdi2_ordem_de_0.admin">7444b2671bff159036431f82b24bcb71</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1786391707</payload_hash>
+        <record_name>x_ctdi2_ordem_de_0_quantidade_por_perfil.x_ctdi2_ordem_de_0.admin</record_name>
+        <reverted_from/>
+        <source>3c44b2671bff159036431f82b24bcb6d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 08:36:36</sys_created_on>
+        <sys_id>d7fca2b01b04a1d036431f82b24bcb7d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1854d9399fa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-26 08:36:36</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>dffca2b07c04a1d0373920b563bbf57c</update_guid>
+        <update_guid_history>dffca2b07c04a1d0373920b563bbf57c:1786391707</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_ctdi2_ordem_de_0_quantidade_por_perfil.x_ctdi2_ordem_de_0.admin">a6b336301b44a1d036431f82b24bcbcf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 09:06:04</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>5c6a289529d2421c85004fe3adb72d24</sys_id>
+        <sys_metadata>13fca2b01b04a1d036431f82b24bcb7a</sys_metadata>
+        <sys_name>x_ctdi2_ordem_de_0_quantidade_por_perfil.x_ctdi2_ordem_de_0.admin</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_parent display_value="">dbfca2b01b04a1d036431f82b24bcb76</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_scope_delete display_value="">13a33e024035416881c8823ff0c36119</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_13fca2b01b04a1d036431f82b24bcb7a</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_13fca2b01b04a1d036431f82b24bcb7a">d7fca2b01b04a1d036431f82b24bcb7d</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

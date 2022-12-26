@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_ctdi2_ordem_de_0_ordem_de_servico" version="2" view="Workspace-Ordem-de-Serviço-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Ordem de Serviço - Workspace Ordem de Serviço 0" name="x_ctdi2_ordem_de_0_ordem_de_servico" related_list="NULL" sys_domain="global" view="4a9c6374694ca1d073fbb194a2e3f8c5">b50d67381b4ca1d036431f82b24bcb26</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>x_ctdi2_ordem_de_0_calcula_perfis.os_de_referencia</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 13:16:25</sys_created_on>
+            <sys_id>420d67381b4ca1d036431f82b24bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-26 13:16:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Ordem de Serviço - Workspace Ordem de Serviço 0" name="x_ctdi2_ordem_de_0_ordem_de_servico" related_list="NULL" sys_domain="global" view="4a9c6374694ca1d073fbb194a2e3f8c5">b50d67381b4ca1d036431f82b24bcb26</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>x_ctdi2_ordem_de_0_indicadores_padroes.os_de_referencia</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 13:16:25</sys_created_on>
+            <sys_id>8a0d67381b4ca1d036431f82b24bcb28</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-26 13:16:25</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Ordem de Serviço - Workspace Ordem de Serviço 0</calculated_name>
+            <filter/>
+            <name>x_ctdi2_ordem_de_0_ordem_de_servico</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 13:16:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b50d67381b4ca1d036431f82b24bcb26</sys_id>
+            <sys_name>Ordem de Serviço - Workspace-x ctdi2 ordem de 0-0</sys_name>
+            <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+            <sys_update_name>sys_ui_related_x_ctdi2_ordem_de_0_ordem_de_servico_Workspace-x_ctdi2_ordem_de_0-0</sys_update_name>
+            <sys_user/>
+            <view display_value="Workspace Ordem de Serviço 0" name="Workspace-Ordem-de-Serviço-0">4a9c6374694ca1d073fbb194a2e3f8c5</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

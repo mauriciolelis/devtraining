@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="nome_da_contratada" table="x_ctdi2_ordem_de_0_ordem_de_servico" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>nome_da_contratada</element>
+            <name>x_ctdi2_ordem_de_0_ordem_de_servico</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-22 18:28:37</sys_created_on>
+            <sys_name>nome_da_contratada</sys_name>
+            <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+            <sys_update_name>sys_choice_x_ctdi2_ordem_de_0_ordem_de_servico_nome_da_contratada</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_da_contratada</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>-- Nova opção --</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_ordem_de_servico</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-22 18:28:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>-- Nova opção --</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_dictionary action="DELETE" element="cnpj_cpf_contratada" table="x_ctdi2_ordem_de_0_ordem_de_servico">
+        <active>true</active>
+        <array>false</array>
+        <attributes>encode_utf8=false</attributes>
+        <audit>false</audit>
+        <calculation/>
+        <choice>0</choice>
+        <choice_field/>
+        <choice_table/>
+        <column_label>CNPJ_CPF Contratada</column_label>
+        <comments/>
+        <create_roles/>
+        <default_value/>
+        <defaultsort/>
+        <delete_roles/>
+        <dependent/>
+        <dependent_on_field/>
+        <display>false</display>
+        <dynamic_creation>false</dynamic_creation>
+        <dynamic_creation_script/>
+        <dynamic_default_value/>
+        <dynamic_ref_qual/>
+        <element>cnpj_cpf_contratada</element>
+        <element_reference>false</element_reference>
+        <foreign_database/>
+        <formula/>
+        <function_definition/>
+        <function_field>false</function_field>
+        <internal_type display_value="String">string</internal_type>
+        <mandatory>false</mandatory>
+        <max_length>40</max_length>
+        <name>x_ctdi2_ordem_de_0_ordem_de_servico</name>
+        <next_element/>
+        <primary>false</primary>
+        <read_only>false</read_only>
+        <read_roles/>
+        <reference/>
+        <reference_cascade_rule/>
+        <reference_floats>false</reference_floats>
+        <reference_key/>
+        <reference_qual/>
+        <reference_qual_condition/>
+        <reference_type/>
+        <spell_check>false</spell_check>
+        <staged>false</staged>
+        <sys_class_name>sys_dictionary</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 12:48:14</sys_created_on>
+        <sys_id>1e304fe71b77559036431f82b24bcb47</sys_id>
+        <sys_name>CNPJ_CPF Contratada</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>sys_dictionary_x_ctdi2_ordem_de_0_ordem_de_servico_cnpj_cpf_contratada</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-22 13:26:33</sys_updated_on>
+        <table_reference>false</table_reference>
+        <text_index>false</text_index>
+        <unique>false</unique>
+        <use_dependent_field>false</use_dependent_field>
+        <use_dynamic_default>false</use_dynamic_default>
+        <use_reference_qualifier>simple</use_reference_qualifier>
+        <virtual>false</virtual>
+        <virtual_type>script</virtual_type>
+        <widget/>
+        <write_roles/>
+        <xml_view>false</xml_view>
+    </sys_dictionary>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</application>
+        <file_path/>
+        <instance_id>7ed1d16ddb79e0949df22f17d4961916</instance_id>
+        <instance_name>ciberiantecnologiadainformacaoltdademo4</instance_name>
+        <name>sys_dictionary_x_ctdi2_ordem_de_0_ordem_de_servico_cnpj_cpf_contratada</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_dictionary action="INSERT_OR_UPDATE" element="cnpj_cpf_contratada" table="x_ctdi2_ordem_de_0_ordem_de_servico"><active>true</active><array>false</array><attributes>encode_utf8=false</attributes><audit>false</audit><calculation/><choice>0</choice><choice_field/><choice_table/><column_label>CNPJ_CPF Contratada</column_label><comments/><create_roles/><default_value/><defaultsort/><delete_roles/><dependent/><dependent_on_field/><display>false</display><dynamic_creation>false</dynamic_creation><dynamic_creation_script/><dynamic_default_value/><dynamic_ref_qual/><element>cnpj_cpf_contratada</element><element_reference>false</element_reference><foreign_database/><formula/><function_definition/><function_field>false</function_field><internal_type display_value="String">string</internal_type><mandatory>false</mandatory><max_length>40</max_length><name>x_ctdi2_ordem_de_0_ordem_de_servico</name><next_element/><primary>false</primary><read_only>false</read_only><read_roles/><reference/><reference_cascade_rule/><reference_floats>false</reference_floats><reference_key/><reference_qual/><reference_qual_condition/><reference_type/><spell_check>false</spell_check><staged>false</staged><sys_class_name>sys_dictionary</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-22 12:48:14</sys_created_on><sys_id>1e304fe71b77559036431f82b24bcb47</sys_id><sys_name>CNPJ_CPF Contratada</sys_name><sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package><sys_policy/><sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope><sys_update_name>sys_dictionary_x_ctdi2_ordem_de_0_ordem_de_servico_cnpj_cpf_contratada</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-22 13:26:33</sys_updated_on><table_reference>false</table_reference><text_index>false</text_index><unique>false</unique><use_dependent_field>false</use_dependent_field><use_dynamic_default>false</use_dynamic_default><use_reference_qualifier>simple</use_reference_qualifier><virtual>false</virtual><virtual_type>script</virtual_type><widget/><write_roles/><xml_view>false</xml_view></sys_dictionary></record_update>]]></payload>
+        <payload_hash>-1487238228</payload_hash>
+        <record_name>Ordem de Serviço.CNPJ_CPF Contratada</record_name>
+        <reverted_from/>
+        <source>3c44b2671bff159036431f82b24bcb6d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 13:26:57</sys_created_on>
+        <sys_id>1d198b6b1b3b559036431f82b24bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1853a03f96a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-22 13:26:57</sys_updated_on>
+        <type>Dictionary</type>
+        <update_guid>91198b6bcb3b55901eabab0101182538</update_guid>
+        <update_guid_history>91198b6bcb3b55901eabab0101182538:-1487238228,759583abf6f75590a6934e9f109a3f7b:-498173623,fc340fe315f75590565a354eb2210a90:-1552160893,e072cfabc1b7559045ab40794abaa9b9:-1870789019,1622872bfbb755902fdd99004ec25990:-1796301620,4171c7a3fab75590b417a82c1ae73f26:179670450,b630032bbd775590c780bbdce058e760:-109139358,aa30032b5b775590b8f9bdab0cb70b01:-1017927515</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 14:00:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_dictionary">sys_dictionary</sys_db_object>
+        <sys_id>316241f7ca2c47b78aeab9769f5303f9</sys_id>
+        <sys_metadata>1e304fe71b77559036431f82b24bcb47</sys_metadata>
+        <sys_name>CNPJ_CPF Contratada</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_parent display_value="">a4c932a31bb3559036431f82b24bcb24</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_scope_delete display_value="">13a33e024035416881c8823ff0c36119</sys_scope_delete>
+        <sys_update_name>sys_dictionary_x_ctdi2_ordem_de_0_ordem_de_servico_cnpj_cpf_contratada</sys_update_name>
+        <sys_update_version display_value="sys_dictionary_x_ctdi2_ordem_de_0_ordem_de_servico_cnpj_cpf_contratada">1d198b6b1b3b559036431f82b24bcb51</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

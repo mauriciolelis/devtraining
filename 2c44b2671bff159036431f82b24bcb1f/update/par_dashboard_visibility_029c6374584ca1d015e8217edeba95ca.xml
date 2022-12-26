@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="par_dashboard_visibility">
+    <par_dashboard_visibility action="INSERT_OR_UPDATE">
+        <dashboard display_value="Ordem de Serviço">c69c63744b4ca1d06770bd39bd09c8c7</dashboard>
+        <experience display_value="Ordem de Serviço">ce9c6374384ca1d0bb699deb0649a3c7</experience>
+        <sys_class_name>par_dashboard_visibility</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 13:14:32</sys_created_on>
+        <sys_id>029c6374584ca1d015e8217edeba95ca</sys_id>
+        <sys_name/>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>par_dashboard_visibility_029c6374584ca1d015e8217edeba95ca</sys_update_name>
+    </par_dashboard_visibility>
+</record_update>

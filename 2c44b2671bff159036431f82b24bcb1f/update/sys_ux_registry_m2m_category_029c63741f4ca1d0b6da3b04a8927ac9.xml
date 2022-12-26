@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_registry_m2m_category">
+    <sys_ux_registry_m2m_category action="INSERT_OR_UPDATE">
+        <experience_category display_value="Workspace">afb4e3e173322010f0ca1e666bf6a726</experience_category>
+        <page_registry display_value="Ordem de Serviço">ce9c6374384ca1d0bb699deb0649a3c7</page_registry>
+        <sys_class_name>sys_ux_registry_m2m_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 13:14:33</sys_created_on>
+        <sys_id>029c63741f4ca1d0b6da3b04a8927ac9</sys_id>
+        <sys_name/>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>sys_ux_registry_m2m_category_029c63741f4ca1d0b6da3b04a8927ac9</sys_update_name>
+    </sys_ux_registry_m2m_category>
+</record_update>

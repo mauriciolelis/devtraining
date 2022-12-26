@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>300</order>
+        <search_context_config display_value="Ordem de Serviço - Workspace Search">869c6374e44ca1d00f5c44951fcf46c6</search_context_config>
+        <source display_value="Ordem de Serviço - x_ctdi2_ordem_de_0_indicadores_">7eaca7741b4ca1d036431f82b24bcb19</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 13:14:56</sys_created_on>
+        <sys_id>54bca7741b4ca1d036431f82b24bcbd9</sys_id>
+        <sys_name/>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_54bca7741b4ca1d036431f82b24bcbd9</sys_update_name>
+    </m2m_search_context_config_search_source>
+</record_update>

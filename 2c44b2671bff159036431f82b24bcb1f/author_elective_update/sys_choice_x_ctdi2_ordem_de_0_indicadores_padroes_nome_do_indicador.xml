@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="nome_do_indicador" table="x_ctdi2_ordem_de_0_indicadores_padroes" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>nome_do_indicador</element>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:21:48</sys_created_on>
+            <sys_name>nome_do_indicador</sys_name>
+            <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+            <sys_update_name>sys_choice_x_ctdi2_ordem_de_0_indicadores_padroes_nome_do_indicador</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Aderência às Práticas Ágeis</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:42:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Aderência às Práticas Ágeis</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Capacitação dos Profissionais</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:43:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Capacitação dos Profissionais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Não Geração de Incidentes</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:21:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Não Geração de Incidentes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Produtividade</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:42:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Produtividade</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Qualidade de Código</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:23:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Qualidade de Código</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Qualificação dos Profissionais</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:43:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Qualificação dos Profissionais</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Reabertura de Chamados</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:22:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Reabertura de Chamados</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Satisfação do Usuário</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:22:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Satisfação do Usuário</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Indicador de Tempo Médio de Preenchimento de Postos de Trabalho</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:43:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Indicador de Tempo Médio de Preenchimento de Postos de Trabalho</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Índice de Cumprimento de Prazos de Entregas</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:42:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Índice de Cumprimento de Prazos de Entregas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nome_do_indicador</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Taxa Efetiva de Ocupação dos Postos de Trabalho</label>
+            <language>en</language>
+            <name>x_ctdi2_ordem_de_0_indicadores_padroes</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 12:42:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>Taxa Efetiva de Ocupação dos Postos de Trabalho</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c7747e701b44a1d036431f82b24bcb45" label="calcula_perfis" max_length="40" name="x_ctdi2_ordem_de_0_calcula_perfis" text_index="true" type="collection">
+        <element label="Multiplicador" max_length="40" name="multiplicador" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome do Perfil" max_length="40" name="nome_do_perfil" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Os de referencia" max_length="32" name="os_de_referencia" reference="x_ctdi2_ordem_de_0_ordem_de_servico" type="reference"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element attributes="edge_encryption_enabled=true" formula="MULTIPLY(multiplicador, quantidade)" label="UST" max_length="40" name="ust" type="integer" virtual="true" virtual_type="formula"/>
+        <index name="index">
+            <element name="os_de_referencia"/>
+        </index>
+        <index name="index2">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

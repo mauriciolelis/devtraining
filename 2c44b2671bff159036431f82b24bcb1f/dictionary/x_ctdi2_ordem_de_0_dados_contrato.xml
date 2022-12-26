@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="1116fee31b33559036431f82b24bcb5d" label="dados_contrato" max_length="40" name="x_ctdi2_ordem_de_0_dados_contrato" text_index="true" type="collection">
+        <element display="true" label="CNPJ_CPF" max_length="40" name="cnpj_cpf" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Nome" max_length="40" name="nome" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Numero do Contrato" max_length="40" name="numero_do_contrato" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

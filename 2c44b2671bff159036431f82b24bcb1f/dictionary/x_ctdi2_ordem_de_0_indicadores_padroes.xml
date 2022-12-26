@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="30455bfc1b48a1d036431f82b24bcbe7" label="Indicadores Padrões" max_length="40" name="x_ctdi2_ordem_de_0_indicadores_padroes" text_index="true" type="collection">
+        <element choice="3" label="Nome do indicador" max_length="40" name="nome_do_indicador" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Indicador de Aderência às Práticas Ágeis" value="Indicador de Aderência às Práticas Ágeis"/>
+                <element inactive_on_update="false" label="Indicador de Capacitação dos Profissionais" value="Indicador de Capacitação dos Profissionais"/>
+                <element inactive_on_update="false" label="Indicador de Não Geração de Incidentes" value="Indicador de Não Geração de Incidentes"/>
+                <element inactive_on_update="false" label="Indicador de Produtividade" value="Indicador de Produtividade"/>
+                <element inactive_on_update="false" label="Indicador de Qualidade de Código" value="Indicador de Qualidade de Código"/>
+                <element inactive_on_update="false" label="Indicador de Qualificação dos Profissionais" value="Indicador de Qualificação dos Profissionais"/>
+                <element inactive_on_update="false" label="Indicador de Reabertura de Chamados" value="Indicador de Reabertura de Chamados"/>
+                <element inactive_on_update="false" label="Indicador de Satisfação do Usuário" value="Indicador de Satisfação do Usuário"/>
+                <element inactive_on_update="false" label="Indicador de Tempo Médio de Preenchimento de Postos de Trabalho" value="Indicador de Tempo Médio de Preenchimento de Postos de Trabalho"/>
+                <element inactive_on_update="false" label="Índice de Cumprimento de Prazos de Entregas" value="Índice de Cumprimento de Prazos de Entregas"/>
+                <element inactive_on_update="false" label="Taxa Efetiva de Ocupação dos Postos de Trabalho" value="Taxa Efetiva de Ocupação dos Postos de Trabalho"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Os de referencia" max_length="32" name="os_de_referencia" reference="x_ctdi2_ordem_de_0_ordem_de_servico" type="reference"/>
+        <index name="index">
+            <element name="os_de_referencia"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="DELETE">
+        <active>true</active>
+        <answer>Ordem de Serviço</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Ordem de Serviço</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Tarefa" name="Task">41c711e5db312010a778623b4b9619ec</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 12:20:00</sys_created_on>
+        <sys_id>f4c932a31bb3559036431f82b24bcb25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ordem de Serviço</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>sys_wizard_answer_f4c932a31bb3559036431f82b24bcb25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-22 12:20:00</sys_updated_on>
+        <table/>
+        <target_url>x_ctdi2_ordem_de_0_ordem_de_servico.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</application>
+        <file_path/>
+        <instance_id>7ed1d16ddb79e0949df22f17d4961916</instance_id>
+        <instance_name>ciberiantecnologiadainformacaoltdademo4</instance_name>
+        <name>sys_wizard_answer_f4c932a31bb3559036431f82b24bcb25</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Ordem de Serviço</answer><button_label/><dependent_value/><element/><name>Ordem de Serviço</name><next_question/><order>100</order><payload_name/><question display_value="Tarefa" name="Task">41c711e5db312010a778623b4b9619ec</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-22 12:20:00</sys_created_on><sys_id>f4c932a31bb3559036431f82b24bcb25</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Ordem de Serviço</sys_name><sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package><sys_policy/><sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope><sys_update_name>sys_wizard_answer_f4c932a31bb3559036431f82b24bcb25</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-22 12:20:00</sys_updated_on><table/><target_url>x_ctdi2_ordem_de_0_ordem_de_servico.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+        <payload_hash>543615402</payload_hash>
+        <record_name>Ordem de Serviço</record_name>
+        <reverted_from/>
+        <source>84ad7c401b33111036431f82b24bcbde</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-12-11 06:18:55</sys_created_on>
+        <sys_id>64d05b2f1b7b559036431f82b24bcb8b</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>184ffd624980000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>Resposta</type>
+        <update_guid>24d05b2f7d7b559068b613449ba8e18b</update_guid>
+        <update_guid_history>24d05b2f7d7b559068b613449ba8e18b:543615402</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-22 14:00:46</sys_created_on>
+        <sys_db_object display_value="" name="sys_wizard_answer">sys_wizard_answer</sys_db_object>
+        <sys_id>57974efce2a6497ab56187da349246e4</sys_id>
+        <sys_metadata>f4c932a31bb3559036431f82b24bcb25</sys_metadata>
+        <sys_name>Ordem de Serviço</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_parent display_value="Task">41c711e5db312010a778623b4b9619ec</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_scope_delete display_value="">13a33e024035416881c8823ff0c36119</sys_scope_delete>
+        <sys_update_name>sys_wizard_answer_f4c932a31bb3559036431f82b24bcb25</sys_update_name>
+        <sys_update_version display_value="sys_wizard_answer_f4c932a31bb3559036431f82b24bcb25">64d05b2f1b7b559036431f82b24bcb8b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

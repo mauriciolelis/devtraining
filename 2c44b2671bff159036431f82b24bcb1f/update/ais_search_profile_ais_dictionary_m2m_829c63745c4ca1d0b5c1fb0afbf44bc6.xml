@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_synonym_dictionary">b29df374c7531010d1cfd9795cc260cd</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="Ordem de Serviço search profile">c69c63741d4ca1d0ffbd97d780231ac6</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 13:14:33</sys_created_on>
+        <sys_id>829c63745c4ca1d0b5c1fb0afbf44bc6</sys_id>
+        <sys_name>default_synonym_dictionary.Ordem de Serviço search profile</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_829c63745c4ca1d0b5c1fb0afbf44bc6</sys_update_name>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

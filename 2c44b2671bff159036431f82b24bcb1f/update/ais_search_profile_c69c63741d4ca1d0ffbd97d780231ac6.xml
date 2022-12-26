@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile">
+    <ais_search_profile action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>This is default AI Search profile for Ordem de Serviço</description>
+        <genius_result_assembly/>
+        <label>Ordem de Serviço search profile</label>
+        <name>x_ctdi2_ordem_de_0_hktiznzd_search_profile</name>
+        <publish_id>b3230c4b-52a7-4e5d-a0ca-969baf3c98bb</publish_id>
+        <state>PUBLISHED</state>
+        <sys_class_name>ais_search_profile</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-26 13:14:32</sys_created_on>
+        <sys_id>c69c63741d4ca1d0ffbd97d780231ac6</sys_id>
+        <sys_name>Ordem de Serviço search profile</sys_name>
+        <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
+        <sys_update_name>ais_search_profile_c69c63741d4ca1d0ffbd97d780231ac6</sys_update_name>
+    </ais_search_profile>
+</record_update>
