@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element db_object_id="133113af1b7b559036431f82b24bcb86" extends="task" label="Ordem de Serviço" max_length="40" name="x_ctdi2_ordem_de_0_ordem_de_servico" text_index="true" type="collection">
+    <element attributes="use_document_viewer=true" db_object_id="133113af1b7b559036431f82b24bcb86" extends="task" label="Ordem de Serviço" max_length="40" name="x_ctdi2_ordem_de_0_ordem_de_servico" text_index="true" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="2" label="CNPJ_CPF" max_length="40" name="cnpj_cpf" reference="x_ctdi2_ordem_de_0_dados_contrato" type="reference">
             <choice/>
         </element>
@@ -10,6 +10,8 @@
         <element attributes="edge_encryption_enabled=true" label="Lote" max_length="40" name="lote" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Nome da Contratada" max_length="40" name="nome_da_contratada" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Numero do Contrato" max_length="40" name="numero_do_contrato" type="string"/>
+        <element label="Responsável DTI" max_length="32" name="responsavel_dti" reference="sys_user" type="reference"/>
+        <element label="Responsável Técnico" max_length="32" name="responsavel_tecnico" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Tipo de Equipe" max_length="40" name="tipo_de_equipe" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Titulo" max_length="40" name="titulo" type="string"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="Em composição" label="Estado da OS" max_length="40" name="u_choice_6" type="string">
