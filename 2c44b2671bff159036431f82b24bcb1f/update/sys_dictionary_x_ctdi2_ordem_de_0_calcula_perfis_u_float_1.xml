@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="cnpj_cpf" table="x_ctdi2_ordem_de_0_ordem_de_servico">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_float_1" table="x_ctdi2_ordem_de_0_calcula_perfis">
         <active>true</active>
         <array>false</array>
-        <attributes>edge_encryption_enabled=true</attributes>
+        <attributes/>
         <audit>false</audit>
         <calculation/>
-        <choice>2</choice>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>CNPJ_CPF</column_label>
+        <column_label>Multiplicador com Decimal</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,21 +21,21 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>cnpj_cpf</element>
+        <element>u_float_1</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="Reference">reference</internal_type>
-        <mandatory>true</mandatory>
+        <internal_type display_value="">float</internal_type>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_ctdi2_ordem_de_0_ordem_de_servico</name>
+        <name>x_ctdi2_ordem_de_0_calcula_perfis</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
         <read_roles/>
-        <reference display_value="" name="x_ctdi2_ordem_de_0_dados_contrato">x_ctdi2_ordem_de_0_dados_contrato</reference>
+        <reference/>
         <reference_cascade_rule/>
         <reference_floats>false</reference_floats>
         <reference_key/>
@@ -46,12 +46,12 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-12-22 14:09:12</sys_created_on>
-        <sys_name>CNPJ_CPF</sys_name>
+        <sys_created_on>2022-12-26 20:31:16</sys_created_on>
+        <sys_name>Multiplicador com Decimal</sys_name>
         <sys_package display_value="Ordem de Serviço" source="x_ctdi2_ordem_de_0">2c44b2671bff159036431f82b24bcb1f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Ordem de Serviço">2c44b2671bff159036431f82b24bcb1f</sys_scope>
-        <sys_update_name>sys_dictionary_x_ctdi2_ordem_de_0_ordem_de_servico_cnpj_cpf</sys_update_name>
+        <sys_update_name>sys_dictionary_x_ctdi2_ordem_de_0_calcula_perfis_u_float_1</sys_update_name>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

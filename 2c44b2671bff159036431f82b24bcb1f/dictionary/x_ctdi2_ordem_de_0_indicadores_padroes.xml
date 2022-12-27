@@ -17,6 +17,9 @@
         </element>
         <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Os de referencia" max_length="32" name="os_de_referencia" reference="x_ctdi2_ordem_de_0_ordem_de_servico" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="nome_do_indicador" dependent_on_field="nome_do_indicador" label="Abreviatura" max_length="40" name="u_choice_1" type="string" use_dependent_field="true">
+            <choice/>
+        </element>
         <index name="index">
             <element name="os_de_referencia"/>
         </index>

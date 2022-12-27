@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-26 09:14:24</sys_created_on>
-            <sys_id>b0a5f6341b44a1d036431f82b24bcb57</sys_id>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>72e05d451b4ce1d036431f82b24bcb11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-26 09:14:24</sys_updated_on>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>nome_do_perfil</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-26 09:14:24</sys_created_on>
-            <sys_id>b8a5f6341b44a1d036431f82b24bcb57</sys_id>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>7ae05d451b4ce1d036431f82b24bcb11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-26 09:14:24</sys_updated_on>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>quantidade</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-26 09:14:24</sys_created_on>
-            <sys_id>bca5f6341b44a1d036431f82b24bcb57</sys_id>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>7ee05d451b4ce1d036431f82b24bcb11</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-26 09:14:24</sys_updated_on>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,41 +46,69 @@
             <element>multiplicador</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-26 09:14:24</sys_created_on>
-            <sys_id>b0a5f6341b44a1d036431f82b24bcb58</sys_id>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>72e05d451b4ce1d036431f82b24bcb12</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-26 09:14:24</sys_updated_on>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_float_1</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>76e05d451b4ce1d036431f82b24bcb12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_float_2</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>7ae05d451b4ce1d036431f82b24bcb12</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>ust</element>
-            <position>4</position>
+            <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-26 09:14:24</sys_created_on>
-            <sys_id>b4a5f6341b44a1d036431f82b24bcb58</sys_id>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>7ee05d451b4ce1d036431f82b24bcb12</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-26 09:14:24</sys_updated_on>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>os_de_referencia</element>
-            <position>5</position>
+            <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2022-12-26 09:49:16</sys_created_on>
-            <sys_id>6f9d76f41b84a1d036431f82b24bcba7</sys_id>
+            <sys_created_on>2022-12-26 20:32:50</sys_created_on>
+            <sys_id>72e05d451b4ce1d036431f82b24bcb13</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_ctdi2_ordem_de_0_calcula_perfis" sys_domain="global" view="Default view">83f432f01b44a1d036431f82b24bcb2d</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2022-12-26 09:49:16</sys_updated_on>
+            <sys_updated_on>2022-12-26 20:32:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,13 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="use_document_viewer=true" db_object_id="133113af1b7b559036431f82b24bcb86" extends="task" label="Ordem de Serviço" max_length="40" name="x_ctdi2_ordem_de_0_ordem_de_servico" text_index="true" type="collection">
-        <element attributes="edge_encryption_enabled=true" choice="2" label="CNPJ_CPF" max_length="40" name="cnpj_cpf" reference="x_ctdi2_ordem_de_0_dados_contrato" type="reference">
+        <element attributes="edge_encryption_enabled=true" choice="2" label="CNPJ_CPF" mandatory="true" max_length="40" name="cnpj_cpf" reference="x_ctdi2_ordem_de_0_dados_contrato" type="reference">
             <choice/>
         </element>
-        <element attributes="edge_encryption_enabled=true" label="Consultor Técnico" max_length="40" name="consultor_tecnico" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Consultor Técnico" max_length="40" name="consultor_tecnico" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Dias Úteis" max_length="40" name="dias_uteis" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Especificação" max_length="300" name="especificacao" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Fator Tipo Regime" max_length="40" name="fator_tipo_regime" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Lote" max_length="40" name="lote" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Lote" max_length="40" name="lote" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="Nome da Contratada" max_length="40" name="nome_da_contratada" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Numero do Contrato" max_length="40" name="numero_do_contrato" type="string"/>
         <element label="Responsável DTI" max_length="32" name="responsavel_dti" reference="sys_user" type="reference"/>

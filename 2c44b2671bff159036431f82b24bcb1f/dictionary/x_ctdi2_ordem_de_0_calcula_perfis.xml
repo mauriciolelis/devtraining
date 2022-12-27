@@ -7,6 +7,8 @@
         <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element attributes="edge_encryption_enabled=true" formula="MULTIPLY(multiplicador, quantidade)" label="UST" max_length="40" name="ust" type="integer" virtual="true" virtual_type="formula"/>
+        <element label="Multiplicador com Decimal" max_length="40" name="u_float_1" type="float"/>
+        <element formula="MULTIPLY(quantidade, u_float_1)" label="UST Decimal" max_length="40" name="u_float_2" type="float" virtual="true" virtual_type="formula"/>
         <index name="index">
             <element name="os_de_referencia"/>
         </index>
